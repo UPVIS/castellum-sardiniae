@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Chi siamo",
+    "gallery": "Galleria",
+    "contact": "Contatto"
+  },
+  "hero": {
+    "title": "Castellum Sardiniae",
+    "subtitle": "Scoprite la storia romana della Sardegna"
+  },
+  "welcome": {
+    "title": "Benvenuti al Castellum Sardiniae",
+    "text1": "Immergetevi nell'affascinante mondo dell'antica Roma. Il Castellum Sardiniae, situato sulla pittoresca costa della Sardegna, fu un importante avamposto militare dell'Impero Romano.",
+    "text2": "Il nostro sito archeologico vi offre uno sguardo unico sulla vita dei soldati e dei coloni romani che vissero e operarono qui quasi due millenni fa.",
+    "text3": "Esplorate le mura, le torri e i quartieri residenziali conservati e lasciatevi incantare dalla storia."
+  },
+  "gallery": {
+    "title": "Galleria fotografica",
+    "subtitle": "Impressioni del nostro sito archeologico"
+  },
+  "contact": {
+    "title": "Contatto",
+    "subtitle": "Venite a trovarci o contattateci",
+    "address": "Indirizzo",
+    "addressValue": "Via Romana 42, 09123 Cagliari, Sardegna, Italia",
+    "phone": "Telefono",
+    "phoneValue": "+39 070 123 4567",
+    "email": "E-Mail",
+    "emailValue": "info@castellum-sardiniae.it",
+    "hours": "Orari di apertura",
+    "hoursValue": "Mar-Dom: 9:00 - 18:00",
+    "form": {
+      "name": "Il vostro nome",
+      "email": "La vostra e-mail",
+      "message": "Il vostro messaggio",
+      "send": "Invia messaggio",
+      "success": "Grazie! Il vostro messaggio è stato inviato.",
+      "error": "Si è verificato un errore. Riprova."
+    }
+  },
+  "footer": {
+    "followUs": "Seguici",
+    "copyright": "© 2026 Castellum Sardiniae. Tutti i diritti riservati.",
+    "privacy": "Privacy",
+    "imprint": "Impressum"
+  }
+}

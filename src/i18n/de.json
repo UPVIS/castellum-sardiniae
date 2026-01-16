@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "gallery": "Galerie",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Castellum Sardiniae",
+    "subtitle": "Entdecken Sie die römische Geschichte Sardiniens"
+  },
+  "welcome": {
+    "title": "Willkommen im Castellum Sardiniae",
+    "text1": "Tauchen Sie ein in die faszinierende Welt des antiken Roms. Das Castellum Sardiniae, gelegen an der malerischen Küste Sardiniens, war einst ein bedeutender militärischer Außenposten des Römischen Reiches.",
+    "text2": "Unsere archäologische Stätte bietet Ihnen einen einzigartigen Einblick in das Leben der römischen Soldaten und Siedler, die vor fast zwei Jahrtausenden hier lebten und wirkten.",
+    "text3": "Erkunden Sie die erhaltenen Mauern, Türme und Wohnquartiere und lassen Sie sich von der Geschichte verzaubern."
+  },
+  "gallery": {
+    "title": "Bildergalerie",
+    "subtitle": "Impressionen unserer archäologischen Stätte"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Besuchen Sie uns oder nehmen Sie Kontakt auf",
+    "address": "Adresse",
+    "addressValue": "Via Romana 42, 09123 Cagliari, Sardinien, Italien",
+    "phone": "Telefon",
+    "phoneValue": "+39 070 123 4567",
+    "email": "E-Mail",
+    "emailValue": "info@castellum-sardiniae.it",
+    "hours": "Öffnungszeiten",
+    "hoursValue": "Di-So: 9:00 - 18:00 Uhr",
+    "form": {
+      "name": "Ihr Name",
+      "email": "Ihre E-Mail",
+      "message": "Ihre Nachricht",
+      "send": "Nachricht senden",
+      "success": "Vielen Dank! Ihre Nachricht wurde gesendet.",
+      "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+    }
+  },
+  "footer": {
+    "followUs": "Folgen Sie uns",
+    "copyright": "© 2026 Castellum Sardiniae. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "imprint": "Impressum"
+  }
+}
