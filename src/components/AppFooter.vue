@@ -53,6 +53,7 @@
             <a href="#home">{{ t('nav.home') }}</a>
             <a href="#about">{{ t('nav.about') }}</a>
             <a href="#gallery">{{ t('nav.gallery') }}</a>
+            <a href="#booking">{{ t('nav.booking') }}</a>
             <a href="#contact">{{ t('nav.contact') }}</a>
           </nav>
         </div>
@@ -67,9 +68,9 @@
       <div class="footer__bottom">
         <p class="footer__copyright">{{ t('footer.copyright') }}</p>
         <div class="footer__legal">
-          <a href="#">{{ t('footer.privacy') }}</a>
+          <a href="https://upvis.de/datenschutz" target="_blank" rel="noopener noreferrer">{{ t('footer.privacy') }}</a>
           <span>|</span>
-          <a href="#">{{ t('footer.imprint') }}</a>
+          <a href="https://upvis.de/impressum" target="_blank" rel="noopener noreferrer">{{ t('footer.imprint') }}</a>
         </div>
       </div>
     </div>

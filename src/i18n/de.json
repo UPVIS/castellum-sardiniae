@@ -3,6 +3,7 @@
     "home": "Startseite",
     "about": "Über uns",
     "gallery": "Galerie",
+    "booking": "Buchen",
     "contact": "Kontakt"
   },
   "hero": {
@@ -44,5 +45,66 @@
     "copyright": "© 2026 Castellum Sardiniae. Alle Rechte vorbehalten.",
     "privacy": "Datenschutz",
     "imprint": "Impressum"
+  },
+  "booking": {
+    "title": "Führung buchen",
+    "subtitle": "Wählen Sie Ihre persönliche Entdeckungsreise",
+    "steps": {
+      "tour": "Führung",
+      "datetime": "Termin",
+      "contact": "Kontakt",
+      "summary": "Übersicht"
+    },
+    "tours": {
+      "standard": {
+        "name": "Standardführung",
+        "desc": "Die perfekte Einführung in die römische Geschichte"
+      },
+      "private": {
+        "name": "Privatführung",
+        "desc": "Exklusive Tour mit persönlichem Guide"
+      },
+      "family": {
+        "name": "Familienführung",
+        "desc": "Interaktiv und kindgerecht gestaltet"
+      }
+    },
+    "step1": {
+      "title": "Wählen Sie Ihre Führungsart"
+    },
+    "step2": {
+      "title": "Wählen Sie Datum und Uhrzeit",
+      "selectDate": "Datum auswählen",
+      "selectTime": "Uhrzeit auswählen",
+      "soldOut": "Ausgebucht"
+    },
+    "step3": {
+      "title": "Ihre Kontaktdaten",
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon (optional)",
+      "persons": "Personenanzahl",
+      "language": "Sprache der Führung",
+      "wishes": "Besondere Wünsche",
+      "wishesPlaceholder": "Haben Sie besondere Anforderungen oder Wünsche?"
+    },
+    "step4": {
+      "title": "Zusammenfassung",
+      "yourTour": "Ihre Führung",
+      "dateTime": "Datum & Uhrzeit",
+      "contact": "Kontaktdaten",
+      "total": "Gesamtpreis",
+      "demoNotice": "Dies ist eine Demo-Buchung. Es werden keine echten Buchungen vorgenommen."
+    },
+    "back": "Zurück",
+    "next": "Weiter",
+    "submit": "Buchung absenden",
+    "complete": {
+      "title": "Vielen Dank!",
+      "message": "Ihre Demo-Buchung wurde erfolgreich übermittelt.",
+      "refNumber": "Referenznummer",
+      "demoReminder": "Dies war eine Demo – keine echte Buchung wurde erstellt.",
+      "newBooking": "Neue Buchung starten"
+    }
   }
 }

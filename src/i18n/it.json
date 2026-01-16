@@ -3,6 +3,7 @@
     "home": "Home",
     "about": "Chi siamo",
     "gallery": "Galleria",
+    "booking": "Prenota",
     "contact": "Contatto"
   },
   "hero": {
@@ -44,5 +45,66 @@
     "copyright": "© 2026 Castellum Sardiniae. Tutti i diritti riservati.",
     "privacy": "Privacy",
     "imprint": "Impressum"
+  },
+  "booking": {
+    "title": "Prenota una visita",
+    "subtitle": "Scegli il tuo viaggio di scoperta personale",
+    "steps": {
+      "tour": "Visita",
+      "datetime": "Data",
+      "contact": "Contatto",
+      "summary": "Riepilogo"
+    },
+    "tours": {
+      "standard": {
+        "name": "Visita standard",
+        "desc": "L'introduzione perfetta alla storia romana"
+      },
+      "private": {
+        "name": "Visita privata",
+        "desc": "Tour esclusivo con guida personale"
+      },
+      "family": {
+        "name": "Visita per famiglie",
+        "desc": "Interattivo e adatto ai bambini"
+      }
+    },
+    "step1": {
+      "title": "Scegli il tipo di visita"
+    },
+    "step2": {
+      "title": "Scegli data e orario",
+      "selectDate": "Seleziona data",
+      "selectTime": "Seleziona orario",
+      "soldOut": "Esaurito"
+    },
+    "step3": {
+      "title": "I tuoi dati di contatto",
+      "name": "Nome",
+      "email": "E-Mail",
+      "phone": "Telefono (opzionale)",
+      "persons": "Numero di persone",
+      "language": "Lingua della visita",
+      "wishes": "Richieste speciali",
+      "wishesPlaceholder": "Avete esigenze o richieste particolari?"
+    },
+    "step4": {
+      "title": "Riepilogo",
+      "yourTour": "La tua visita",
+      "dateTime": "Data e orario",
+      "contact": "Dati di contatto",
+      "total": "Prezzo totale",
+      "demoNotice": "Questa è una prenotazione demo. Non vengono effettuate prenotazioni reali."
+    },
+    "back": "Indietro",
+    "next": "Avanti",
+    "submit": "Invia prenotazione",
+    "complete": {
+      "title": "Grazie!",
+      "message": "La tua prenotazione demo è stata inviata con successo.",
+      "refNumber": "Numero di riferimento",
+      "demoReminder": "Questa era una demo – nessuna prenotazione reale è stata creata.",
+      "newBooking": "Nuova prenotazione"
+    }
   }
 }

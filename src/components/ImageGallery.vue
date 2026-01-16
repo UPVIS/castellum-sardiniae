@@ -230,11 +230,11 @@ onUnmounted(() => {
   font-size: 1.75rem;
 }
 
-/* Masonry Grid */
+/* Masonry Grid - Fixed for full coverage */
 .gallery__masonry {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-auto-rows: 200px;
+  grid-template-rows: repeat(3, 220px);
   gap: 1rem;
   margin-top: var(--spacing-md);
 }
@@ -246,6 +246,7 @@ onUnmounted(() => {
   cursor: pointer;
   box-shadow: var(--shadow-md);
   transition: all var(--transition-normal);
+  min-height: 100%;
 }
 
 .gallery__item--tall {
@@ -257,6 +258,9 @@ onUnmounted(() => {
 }
 
 .gallery__item img {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -425,7 +429,7 @@ onUnmounted(() => {
 @media (max-width: 1023px) {
   .gallery__masonry {
     grid-template-columns: repeat(3, 1fr);
-    grid-auto-rows: 180px;
+    grid-template-rows: repeat(4, 180px);
   }
 
   .gallery__item--wide {
@@ -436,7 +440,7 @@ onUnmounted(() => {
 @media (max-width: 767px) {
   .gallery__masonry {
     grid-template-columns: repeat(2, 1fr);
-    grid-auto-rows: 150px;
+    grid-template-rows: repeat(5, 160px);
     gap: 0.75rem;
   }
 

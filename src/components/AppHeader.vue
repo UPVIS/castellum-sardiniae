@@ -13,6 +13,7 @@
           <li><a href="#home" @click="closeMenu">{{ t('nav.home') }}</a></li>
           <li><a href="#about" @click="closeMenu">{{ t('nav.about') }}</a></li>
           <li><a href="#gallery" @click="closeMenu">{{ t('nav.gallery') }}</a></li>
+          <li><a href="#booking" @click="closeMenu" class="header__menu-cta">{{ t('nav.booking') }}</a></li>
           <li><a href="#contact" @click="closeMenu">{{ t('nav.contact') }}</a></li>
         </ul>
 
@@ -178,6 +179,23 @@ onUnmounted(() => {
 
 .header__menu a:hover::after {
   width: 100%;
+}
+
+.header__menu-cta {
+  background: var(--color-primary);
+  color: var(--color-white) !important;
+  padding: 0.5rem 1rem !important;
+  border-radius: var(--radius-sm);
+  text-shadow: none !important;
+}
+
+.header__menu-cta:hover {
+  background: var(--color-accent);
+  color: var(--color-white) !important;
+}
+
+.header__menu-cta::after {
+  display: none !important;
 }
 
 .header__lang {
